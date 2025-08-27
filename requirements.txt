@@ -9,7 +9,7 @@ arrow==0.17.0
 cachetools==4.2.0
 requests==2.25.1
 urllib3==1.26.2
-wrapt==1.12.1
+wrapt==1.17.3
 jsonschema==3.2.0
 TA-Lib==0.4.19
 tabulate==0.8.7
